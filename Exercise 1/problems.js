@@ -1,10 +1,15 @@
 window.answers = () => {
+    //Week 1 - Day 2
+    // Javascript 
+    
     // Each of the following sections is a separate problem. Read the comments and do what they say.
     // Don't delete or change the instructional comments
     
     // #1 Add the fewest number of brackets so that result is equal to 65.
     // (don't add, remove or change the numbers)
-    let result = 1 + 2 ** 2 * 3
+    //let result = 1 + 2 ** 2 * 3
+    let result = 1 + 2 ** (2 * 3)
+    console.log(result)
 
 
     // #2 The variable 'fruity' should equal "a banana".
